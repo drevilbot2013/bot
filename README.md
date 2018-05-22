@@ -1,5 +1,5 @@
 # bot
-# this is just an exercise in clustering language with kmeans, fitting to a tweet, and providing a similarly labeled tweet.
+# this is an exercise in clustering language with kmeans, fitting to a tweet, and providing a similarly labeled tweet.
 # there are three primary files: text_process, get_response, twitter_bot.
 # text_process cleans and clusters text from austin power's movies and assigns labels to dr evil quotes
 # get_response uses tweepy to get a series of tweets from a follower, assigns a label for most recent tweet based on text_process, 
